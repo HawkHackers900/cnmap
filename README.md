@@ -26,3 +26,4 @@ $ bash setup.sh
 $ bash cnmap.sh
 
 VIDEO DEMO OF INSTALLATION
+https://user-images.githubusercontent.com/90756025/133928386-874c9991-74c3-49e1-b28f-58ee27252c2e.mp4
