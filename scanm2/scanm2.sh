@@ -2,7 +2,7 @@
 red="\e[31m"
 green="\e[32m"
 yellow="\e[33m"
-cyan"\e[36m"
+cyan="\e[36m"
 stop="\e[0m"
 
 printf "$yellow"
@@ -70,7 +70,7 @@ sleep 1
 echo "Exit[####_]"
 sleep 1
 echo "Exit[#####]"
-sleep
+sleep 1
 exit
 fi
 
