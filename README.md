@@ -1,4 +1,10 @@
 # cnmap
+#Script is Updates
+
+
+GUYS SCRIPT IS UPDATED MAKE YOU HAVE THE NEW ONE
+VERSION[1.1]
+
 This Tool is the Automation of Nmap(Network Mapper) Tool,it Has the most using Combinations Of Switches,scantypes,misc types,Timing Options and Many More Stay Updated to get More Useful Scanning Types....
 Ive Created This Tool To Automate Namp Switches Scantypes And Timing Options to Make People Type less and Concentrate More On Work.. Just Type Less,Work More..... More Progress Works Will Be Updated very soon Be In Touch With Us.... Telegram @HawkHackers.... This Tool Is Scripted And Programmed By HawkHackers ..
 After Cloning.... 1.Use The terms.sh file to Agree The Terms And Conditions Before Proceeding To Install. 2.Agree The Terms and conditions By Reading Complete Agreement by just typing bash terms.sh 3.bash setup.sh 4.bash cnmap.sh
